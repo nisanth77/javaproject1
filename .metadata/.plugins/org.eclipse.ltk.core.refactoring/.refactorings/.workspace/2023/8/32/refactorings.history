@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Spring-data-jpa-mapping&apos; to &apos;Spring-data-jpa-mapping-one-to-many&apos;&#x0D;&#x0A;- Original element: &apos;Spring-data-jpa-mapping&apos;&#x0D;&#x0A;- Renamed element: &apos;Spring-data-jpa-mapping&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Spring-data-jpa-mapping&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Spring-data-jpa-mapping" name="Spring-data-jpa-mapping-one-to-many" references="true" stamp="1691813557667" version="1.0"/>
+</session>
